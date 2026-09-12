@@ -1,2 +1,8 @@
 # agent-action-replayer
-Replay deterministic action logs against a state transition reducer.
+
+Replay simple deterministic state-transition logs for test fixtures.
+
+```bash
+python -m unittest -v
+```
+MIT licensed.
